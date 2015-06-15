@@ -1,6 +1,42 @@
-body {
-     background-color: orange;
+body { background-color:#CCFFFF;
+	}
+h4 {text-decoration:underline;
 }
-h1, p {
-     color: white;
+h1 {text-align: center;
+}
+p{font-style: italic;
+margin: 10px 10px;
+}
+ a {
+      color: white;
+    }
+#slogan {font-family: "Times New Roman";
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+}
+#normal {font-style: normal;
+	text-align: center;
+}
+#normal0 {font-style: normal;
+	text-align: center;
+}
+  img {
+      margin: 0px 0px 0px 0px;
+      border: 5px solid black;
+      border-radius: 50px;
+      }
+    ul {
+      padding: 20px;
+      background: rgba(0,0,0,0.5);
+      text-align: center;
+    }
+ li { padding: 76px;
+      display: inline;
+      text-align: center;
+}
+    .center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
